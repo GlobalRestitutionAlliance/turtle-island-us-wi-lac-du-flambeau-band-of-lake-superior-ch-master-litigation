@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WI+LAC+DU+FLAMBEAU+BAND+OF+LAKE+SUPERIOR+CH",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WI+LAC+DU+FLAMBEAU+BAND+OF+LAKE+SUPERIOR+CH",
+  "title": "Federal Register - WI LAC DU FLAMBEAU BAND OF LAKE SUPERIOR CH",
+  "fetched_at": "2026-11-23T17:44:46.181908Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 107020,
+  "sha256": "6a4abab526247234a9aea72face355b1114e3682473a9085d5537c25ee1e57e3",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
